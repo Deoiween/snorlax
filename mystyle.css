@@ -9,7 +9,7 @@ body {
   display: flex;
   align-items: center;
   flex-direction: row;
-  gap: 10px;
+  gap: 20px;
 }
 .images{
   gap: 10px;
