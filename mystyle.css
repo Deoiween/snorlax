@@ -1,3 +1,6 @@
 body {
   background-image: url("https://cdn.wallpapersafari.com/9/96/9dk3Nm.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 40px;
 }
