@@ -8,8 +8,5 @@ body {
 .position{
   display: flex;
   align-items: center;
-}
-.images{
-  display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
