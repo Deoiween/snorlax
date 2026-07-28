@@ -9,10 +9,10 @@ body {
   display: flex;
   align-items: flex-start;
   flex-direction: row;
-  gap: 40px;
+  gap: 20px;
 }
 .images{
-  gap: 10px;
+  gap: 20px;
 }
 .box2{
   display: flex;
