@@ -5,3 +5,7 @@ body {
   padding: 40px;
 }
 
+.images{
+  display: flex;
+  flex-direction: column;
+}
