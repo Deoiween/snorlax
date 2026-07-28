@@ -4,3 +4,9 @@ body {
   background-size: cover;
   padding: 40px;
 }
+.images{
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border: 3px solid white;
+}
