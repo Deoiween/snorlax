@@ -17,7 +17,6 @@ h1 {
 }
 .images{
   gap: 20px;
-  border-radius: 10px;
 }
 .box2{
   display: flex;
