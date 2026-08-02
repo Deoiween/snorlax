@@ -5,6 +5,10 @@ body {
   padding: 40px;
 }
 
+h1 {
+  color: indianred;
+}
+
 .position{
   display: flex;
   align-items: flex-start;
